@@ -10,6 +10,20 @@ WAV Guitar Theory is an interactive learning and composition tool for beginner a
 
 WAV Guitar Theory helps guitarists explore notes, chords, scales, and progressions while seeing their location on the fretboard in real time. The application combines theory tools with performance controls so users can move naturally between learning, experimentation, and composition.
 
+## Screenshots
+
+### Chord Theory
+
+![WAV Guitar Theory chord interface](assets/screenshots/chord-theory-pic.png)
+
+### Scale Theory
+
+![WAV Guitar Theory scale interface](assets/screenshots/scale-theory-pic.png)
+
+### Chord Progressions
+
+![WAV Guitar Theory chord progression interface](assets/screenshots/prog-theory-pic.png)
+
 ## Features
 
 - Interactive guitar fretboard with real-time note visualization
